@@ -42,4 +42,4 @@ Ensure you have these dependencies properly integrated into your project by chec
 
 ---
 
-Happy noting with the Notes App! If you encounter any issues or have suggestions, feel free to contact us at notesapp@example.com. Your feedback is highly appreciated.
+
